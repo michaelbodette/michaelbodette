@@ -29,8 +29,8 @@ research notes, and hands-on demonstrations.
 
 ## Featured Work
 
-### Certificate Validity Reduction
-https://github.com/matadortech-labs/certificate-validity-reduction
+### Certificate Validity Period Reduction
+https://github.com/matadortech-labs/certificate-validity-period-reduction
 
 Explains industry movement toward shorter certificate lifetimes and
 enterprise operational impact.
@@ -48,5 +48,5 @@ Hands-on demos showing real-world PKI and machine identity use cases.
 
 ---
 
-🌐 https://www.matadortech.net  
 🔗 LinkedIn: https://www.linkedin.com/in/bodette/
+🌐 https://www.matadortech.net
