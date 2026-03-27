@@ -20,7 +20,7 @@ research notes, and hands-on demonstrations.
 ## Current Focus Areas
 
 - Certificate lifecycle automation
-- Certificate validity reduction impacts
+- Certificate validity period reduction impacts
 - Machine identity management
 - Post-quantum cryptography readiness
 - Crypto agility strategy
@@ -48,6 +48,6 @@ Hands-on demos showing real-world PKI and machine identity use cases.
 
 ---
 
-🔗 LinkedIn: https://www.linkedin.com/in/bodette/
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/bodette/" target="_blank">https://www.linkedin.com/in/bodette/</a>  
 
-🌐 https://www.matadortech.net
+🌐 Matador Tech: <a href="https://www.matadortech.net" target="_blank">https://www.matadortech.net</a>
