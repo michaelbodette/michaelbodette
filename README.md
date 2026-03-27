@@ -49,4 +49,5 @@ Hands-on demos showing real-world PKI and machine identity use cases.
 ---
 
 🔗 LinkedIn: https://www.linkedin.com/in/bodette/
+
 🌐 https://www.matadortech.net
